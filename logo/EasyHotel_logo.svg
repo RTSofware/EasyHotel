@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="256"
+   height="256"
+   viewBox="0 0 256 256"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="EasyHotel_logo.svg"
+   inkscape:export-filename="/media/fergus/DATOS/ESI 19-20/ISWII/Practicas/03 EasyHotel/logo/EasyHotel_logo.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="-104.32783"
+     inkscape:cy="123.21349"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1366"
+     inkscape:window-height="739"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:showpageshadow="false"
+     borderlayer="true" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Background"
+     style="display:inline">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4150"
+       width="256"
+       height="256"
+       x="0"
+       y="2.4868996e-14"
+       ry="2.0514944" />
+  </g>
+  <g
+     inkscape:label="Logo"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-796.36216)"
+     style="display:inline">
+    <path
+       style="fill:#fdcd08;fill-opacity:1"
+       d=""
+       id="path3384"
+       inkscape:connector-curvature="0"
+       transform="translate(0,796.36216)" />
+    <text
+       sodipodi:linespacing="0%"
+       id="text3349-3"
+       y="929.30646"
+       x="142.95239"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.83244896px;line-height:0%;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';letter-spacing:0px;word-spacing:0px;display:inline;fill:#fdcd08;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       xml:space="preserve"><tspan
+         y="929.30646"
+         x="142.95239"
+         id="tspan3351-6"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:60px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';fill:#fdcd08;fill-opacity:1;">Easy</tspan></text>
+    <text
+       sodipodi:linespacing="0%"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.83244896px;line-height:0%;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';letter-spacing:0px;word-spacing:0px;display:inline;fill:#416cb3;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="134.27075"
+       y="1003.0229"
+       id="text4654"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:80px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, Bold';fill:#416cb3;fill-opacity:1"
+         sodipodi:role="line"
+         id="tspan4652"
+         x="134.27075"
+         y="1003.0229">otel</tspan></text>
+    <text
+       sodipodi:linespacing="0%"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.83244896px;line-height:0%;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';letter-spacing:0px;word-spacing:0px;display:inline;fill:#253040;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="1.7231445"
+       y="1029.4568"
+       id="text4658"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:1.25;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';fill:#253040;fill-opacity:1;"
+         sodipodi:role="line"
+         id="tspan4656"
+         x="1.7231445"
+         y="1029.4568">Booking Reservation System</tspan></text>
+    <g
+       id="g4225"
+       transform="matrix(1.4860373,0,0,1.4860373,326.75311,-455.01685)">
+      <path
+         sodipodi:nodetypes="cccccccccccccccc"
+         inkscape:connector-curvature="0"
+         id="path4187"
+         d="m -216.42858,863.07649 7.14286,118.57138 33.21429,-0.3572 0,-33.57137 9.64285,0 0,33.57137 33.21429,0.3572 5.71429,-117.49998 -38.57143,25.3571 0.35714,44.2857 -11.07143,0 0,-45 -15.71428,-11.4285 -1.22122,-23.088 -3.0645,21.6594 z"
+         style="fill:#416cb3;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <rect
+         y="888.97003"
+         x="-209.10156"
+         height="5.3033009"
+         width="5.0507627"
+         id="rect4207"
+         style="fill:#fdcd08;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:2, 16;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         style="fill:#fdcd08;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:2, 16;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4211"
+         width="5.0507627"
+         height="5.3033009"
+         x="-185.61552"
+         y="894.77838" />
+      <rect
+         y="899.07147"
+         x="-208.59648"
+         height="5.3033009"
+         width="5.0507627"
+         id="rect4213"
+         style="fill:#fdcd08;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:2, 16;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         style="fill:#fdcd08;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:2, 16;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4215"
+         width="5.0507627"
+         height="5.3033009"
+         x="-207.33379"
+         y="909.17303" />
+      <rect
+         y="916.74921"
+         x="-195.46449"
+         height="5.3033009"
+         width="5.0507627"
+         id="rect4217"
+         style="fill:#fdcd08;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:2, 16;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         style="fill:#fdcd08;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:2, 16;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4219"
+         width="5.0507627"
+         height="5.3033009"
+         x="-205.31348"
+         y="925.58807" />
+      <rect
+         y="951.59955"
+         x="-141.92641"
+         height="5.3033009"
+         width="5.0507627"
+         id="rect4221"
+         style="fill:#fdcd08;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:2, 16;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         style="fill:#fdcd08;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:2, 16;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4223"
+         width="5.0507627"
+         height="5.3033009"
+         x="-153.29063"
+         y="964.73151" />
+    </g>
+  </g>
+</svg>
